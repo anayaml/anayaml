@@ -3,7 +3,7 @@
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Ansible.</p>
-<p>💬 Ask me about Python, Cloud (AWS and Openstack) and Linux.</p>
+<p>💬 Ask me about Algorithms, Python, Cloud (AWS, Openstack) and Linux.</p>
 
 ## 💻 Skills
 <p>
