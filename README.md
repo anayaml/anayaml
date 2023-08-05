@@ -1,5 +1,5 @@
 # Hi there 👋, My name is Ana
-<p> I'm a Python/DevOps Developer</p>
+<p> I'm a Python Developer</p>
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Ansible.</p>
