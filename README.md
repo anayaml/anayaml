@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Ansible**
 
-- 💬 Ask me about **Algorithms, Python, Cloud Computing and Linux.**
+- 💬 Ask me about **Python, Cloud Computing and Linux.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
