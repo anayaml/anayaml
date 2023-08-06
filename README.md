@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ana</h1>
 <h3 align="center">Backend/DevOps Developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning **Kafka**
 
 - 💬 Ask me about **Python, Cloud Computing and Linux.**
 
