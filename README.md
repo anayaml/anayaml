@@ -1,7 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ana</h1>
 <h3 align="center">Backend/DevOps Developer from Brazil.</h3>
 
-- 🌱 I’m currently learning **Kafka**
+- Jack of all trades.
+
+- 🌱 I’m currently learning **DevSecOps Tools**
 
 - 💬 Ask me about **Python, Cloud Computing and Linux.**
 
