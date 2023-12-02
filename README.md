@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevSecOps Tools**
 
-- 💬 Ask me about **Python, Cloud Computing and Linux.**
+- 💬 Ask me about **Python and Linux.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
