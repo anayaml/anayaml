@@ -3,7 +3,7 @@
 
 - Jack of all trades.
 
-- 🌱 I’m currently learning **DevSecOps Tools**
+- 🌱 I’m currently learning **GoLang** and **Rust**.
 
 - 💬 Ask me about **Python and Linux.**
 
