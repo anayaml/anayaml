@@ -1,10 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Ana</h1>
-<h3 align="center">Backend/DevOps Developer from Brazil.</h3>
-
-- Jack of all trades.
-
-- 🌱 I’m currently learning **GoLang** and **Rust**.
-
 - 💬 Ask me about **Python and Linux.**
 
 <h3 align="left">Connect with me:</h3>
